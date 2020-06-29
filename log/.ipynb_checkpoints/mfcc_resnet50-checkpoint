@@ -1,0 +1,6 @@
+/home/jovyan/work/hpc4/orca_tpl/
+initializing
+logs are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/mfcc_resnet50/log
+models are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/mfcc_resnet50/models
+epoch 0, iter 30 loss 0.979, acc 68/128
+epoch 0, iter 60 loss 0.842, acc 76/128

@@ -1,0 +1,743 @@
+/home/jovyan/work/hpc4/orca_tpl/
+initializing
+logs are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/ComParE_resnet34/log
+models are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/ComParE_resnet34/models
+epoch 0, iter 30 loss 0.535, acc 49/64
+epoch 0, iter 60 loss 0.535, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 0.509.
+
+epoch 1, iter 30 loss 0.520, acc 49/64
+epoch 1, iter 60 loss 0.527, acc 50/64
+epoch 2, iter 30 loss 0.519, acc 49/64
+epoch 2, iter 60 loss 0.526, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 0.507.
+
+epoch 3, iter 30 loss 0.517, acc 49/64
+epoch 3, iter 60 loss 0.525, acc 50/64
+epoch 4, iter 30 loss 0.516, acc 49/64
+epoch 4, iter 60 loss 0.523, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[  10 2785]
+ [   2  718]]
+Test set: Loss: 0.790.
+
+epoch 5, iter 30 loss 0.516, acc 49/64
+epoch 5, iter 60 loss 0.521, acc 50/64
+epoch 6, iter 30 loss 0.514, acc 49/64
+epoch 6, iter 60 loss 0.521, acc 50/64
+epoch 7, iter 30 loss 0.513, acc 49/64
+epoch 7, iter 60 loss 0.520, acc 50/64
+epoch 8, iter 30 loss 0.512, acc 49/64
+epoch 8, iter 60 loss 0.517, acc 50/64
+epoch 9, iter 30 loss 0.511, acc 49/64
+epoch 9, iter 60 loss 0.516, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 2.074.
+
+epoch 10, iter 30 loss 0.511, acc 49/64
+epoch 10, iter 60 loss 0.516, acc 50/64
+epoch 11, iter 30 loss 0.511, acc 49/64
+epoch 11, iter 60 loss 0.517, acc 50/64
+epoch 12, iter 30 loss 0.511, acc 49/64
+epoch 12, iter 60 loss 0.517, acc 50/64
+Epoch    13: reducing learning rate of group 0 to 1.0000e-04.
+epoch 13, iter 30 loss 0.510, acc 49/64
+epoch 13, iter 60 loss 0.515, acc 50/64
+epoch 14, iter 30 loss 0.508, acc 49/64
+epoch 14, iter 60 loss 0.513, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 0.538.
+
+epoch 15, iter 30 loss 0.507, acc 49/64
+epoch 15, iter 60 loss 0.512, acc 50/64
+epoch 16, iter 30 loss 0.506, acc 49/64
+epoch 16, iter 60 loss 0.511, acc 50/64
+epoch 17, iter 30 loss 0.505, acc 49/64
+epoch 17, iter 60 loss 0.510, acc 50/64
+epoch 18, iter 30 loss 0.505, acc 49/64
+epoch 18, iter 60 loss 0.509, acc 50/64
+epoch 19, iter 30 loss 0.505, acc 49/64
+epoch 19, iter 60 loss 0.510, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[   0 2795]
+ [   0  720]]
+Test set: Loss: 8.476.
+
+epoch 20, iter 30 loss 0.504, acc 49/64
+epoch 20, iter 60 loss 0.509, acc 50/64
+epoch 21, iter 30 loss 0.504, acc 49/64
+epoch 21, iter 60 loss 0.509, acc 50/64
+epoch 22, iter 30 loss 0.503, acc 49/64
+epoch 22, iter 60 loss 0.508, acc 50/64
+epoch 23, iter 30 loss 0.503, acc 49/64
+epoch 23, iter 60 loss 0.508, acc 50/64
+epoch 24, iter 30 loss 0.503, acc 49/64
+epoch 24, iter 60 loss 0.508, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[   0 2795]
+ [   0  720]]
+Test set: Loss: 9.952.
+
+epoch 25, iter 30 loss 0.503, acc 49/64
+epoch 25, iter 60 loss 0.508, acc 50/64
+epoch 26, iter 30 loss 0.502, acc 49/64
+epoch 26, iter 60 loss 0.507, acc 50/64
+epoch 27, iter 30 loss 0.502, acc 49/64
+epoch 27, iter 60 loss 0.507, acc 50/64
+epoch 28, iter 30 loss 0.502, acc 49/64
+epoch 28, iter 60 loss 0.507, acc 50/64
+epoch 29, iter 30 loss 0.501, acc 49/64
+epoch 29, iter 60 loss 0.506, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[   0 2795]
+ [   0  720]]
+Test set: Loss: 13.378.
+
+epoch 30, iter 30 loss 0.501, acc 49/64
+epoch 30, iter 60 loss 0.506, acc 50/64
+epoch 31, iter 30 loss 0.500, acc 49/64
+epoch 31, iter 60 loss 0.506, acc 50/64
+epoch 32, iter 30 loss 0.500, acc 49/64
+epoch 32, iter 60 loss 0.505, acc 50/64
+epoch 33, iter 30 loss 0.499, acc 49/64
+epoch 33, iter 60 loss 0.505, acc 50/64
+epoch 34, iter 30 loss 0.498, acc 49/64
+epoch 34, iter 60 loss 0.504, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 1.210.
+
+epoch 35, iter 30 loss 0.498, acc 49/64
+epoch 35, iter 60 loss 0.505, acc 50/64
+epoch 36, iter 30 loss 0.498, acc 49/64
+epoch 36, iter 60 loss 0.503, acc 50/64
+epoch 37, iter 30 loss 0.498, acc 49/64
+epoch 37, iter 60 loss 0.504, acc 50/64
+epoch 38, iter 30 loss 0.500, acc 50/64
+epoch 38, iter 60 loss 0.506, acc 50/64
+epoch 39, iter 30 loss 0.495, acc 49/64
+epoch 39, iter 60 loss 0.502, acc 51/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[   0 2795]
+ [   0  720]]
+Test set: Loss: 16.264.
+
+epoch 40, iter 30 loss 0.493, acc 49/64
+epoch 40, iter 60 loss 0.501, acc 50/64
+epoch 41, iter 30 loss 0.496, acc 49/64
+epoch 41, iter 60 loss 0.502, acc 51/64
+epoch 42, iter 30 loss 0.495, acc 50/64
+epoch 42, iter 60 loss 0.501, acc 51/64
+epoch 43, iter 30 loss 0.493, acc 50/64
+epoch 43, iter 60 loss 0.500, acc 50/64
+epoch 44, iter 30 loss 0.493, acc 50/64
+epoch 44, iter 60 loss 0.499, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 2.881.
+
+epoch 45, iter 30 loss 0.493, acc 50/64
+epoch 45, iter 60 loss 0.499, acc 51/64
+epoch 46, iter 30 loss 0.491, acc 50/64
+epoch 46, iter 60 loss 0.498, acc 50/64
+epoch 47, iter 30 loss 0.488, acc 49/64
+epoch 47, iter 60 loss 0.496, acc 51/64
+epoch 48, iter 30 loss 0.488, acc 50/64
+epoch 48, iter 60 loss 0.495, acc 51/64
+epoch 49, iter 30 loss 0.486, acc 50/64
+epoch 49, iter 60 loss 0.494, acc 51/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.310.
+
+epoch 50, iter 30 loss 0.486, acc 50/64
+epoch 50, iter 60 loss 0.493, acc 51/64
+epoch 51, iter 30 loss 0.484, acc 50/64
+epoch 51, iter 60 loss 0.491, acc 51/64
+epoch 52, iter 30 loss 0.484, acc 50/64
+epoch 52, iter 60 loss 0.491, acc 50/64
+epoch 53, iter 30 loss 0.483, acc 50/64
+epoch 53, iter 60 loss 0.491, acc 51/64
+epoch 54, iter 30 loss 0.484, acc 50/64
+epoch 54, iter 60 loss 0.490, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.520.
+
+epoch 55, iter 30 loss 0.483, acc 50/64
+epoch 55, iter 60 loss 0.490, acc 50/64
+epoch 56, iter 30 loss 0.481, acc 50/64
+epoch 56, iter 60 loss 0.489, acc 51/64
+epoch 57, iter 30 loss 0.482, acc 50/64
+epoch 57, iter 60 loss 0.489, acc 51/64
+epoch 58, iter 30 loss 0.480, acc 50/64
+epoch 58, iter 60 loss 0.488, acc 49/64
+epoch 59, iter 30 loss 0.480, acc 50/64
+epoch 59, iter 60 loss 0.488, acc 49/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[   0 2795]
+ [   0  720]]
+Test set: Loss: 22.552.
+
+epoch 60, iter 30 loss 0.479, acc 50/64
+epoch 60, iter 60 loss 0.487, acc 50/64
+epoch 61, iter 30 loss 0.480, acc 50/64
+epoch 61, iter 60 loss 0.488, acc 50/64
+epoch 62, iter 30 loss 0.479, acc 50/64
+epoch 62, iter 60 loss 0.487, acc 52/64
+epoch 63, iter 30 loss 0.484, acc 50/64
+epoch 63, iter 60 loss 0.490, acc 52/64
+epoch 64, iter 30 loss 0.479, acc 50/64
+epoch 64, iter 60 loss 0.487, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[   0 2795]
+ [   0  720]]
+Test set: Loss: 8.800.
+
+epoch 65, iter 30 loss 0.478, acc 50/64
+epoch 65, iter 60 loss 0.487, acc 51/64
+epoch 66, iter 30 loss 0.479, acc 50/64
+epoch 66, iter 60 loss 0.486, acc 50/64
+epoch 67, iter 30 loss 0.477, acc 50/64
+epoch 67, iter 60 loss 0.485, acc 51/64
+epoch 68, iter 30 loss 0.477, acc 50/64
+epoch 68, iter 60 loss 0.484, acc 51/64
+epoch 69, iter 30 loss 0.478, acc 50/64
+epoch 69, iter 60 loss 0.486, acc 51/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[   0 2795]
+ [   0  720]]
+Test set: Loss: 1.886.
+
+epoch 70, iter 30 loss 0.477, acc 50/64
+epoch 70, iter 60 loss 0.485, acc 52/64
+epoch 71, iter 30 loss 0.478, acc 50/64
+epoch 71, iter 60 loss 0.485, acc 51/64
+epoch 72, iter 30 loss 0.475, acc 50/64
+epoch 72, iter 60 loss 0.483, acc 52/64
+epoch 73, iter 30 loss 0.475, acc 50/64
+epoch 73, iter 60 loss 0.483, acc 52/64
+epoch 74, iter 30 loss 0.483, acc 49/64
+epoch 74, iter 60 loss 0.492, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[   0 2795]
+ [   0  720]]
+Test set: Loss: 3.951.
+
+epoch 75, iter 30 loss 0.481, acc 50/64
+epoch 75, iter 60 loss 0.486, acc 52/64
+epoch 76, iter 30 loss 0.480, acc 50/64
+epoch 76, iter 60 loss 0.485, acc 52/64
+epoch 77, iter 30 loss 0.480, acc 51/64
+epoch 77, iter 60 loss 0.486, acc 51/64
+epoch 78, iter 30 loss 0.475, acc 50/64
+epoch 78, iter 60 loss 0.483, acc 52/64
+epoch 79, iter 30 loss 0.476, acc 50/64
+epoch 79, iter 60 loss 0.483, acc 51/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[   0 2795]
+ [   0  720]]
+Test set: Loss: 6.569.
+
+epoch 80, iter 30 loss 0.478, acc 50/64
+epoch 80, iter 60 loss 0.486, acc 51/64
+epoch 81, iter 30 loss 0.479, acc 50/64
+epoch 81, iter 60 loss 0.485, acc 51/64
+epoch 82, iter 30 loss 0.477, acc 50/64
+epoch 82, iter 60 loss 0.484, acc 51/64
+epoch 83, iter 30 loss 0.475, acc 50/64
+epoch 83, iter 60 loss 0.482, acc 52/64
+epoch 84, iter 30 loss 0.474, acc 50/64
+epoch 84, iter 60 loss 0.481, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.193.
+
+epoch 85, iter 30 loss 0.478, acc 50/64
+epoch 85, iter 60 loss 0.485, acc 51/64
+epoch 86, iter 30 loss 0.474, acc 50/64
+epoch 86, iter 60 loss 0.483, acc 50/64
+epoch 87, iter 30 loss 0.472, acc 50/64
+epoch 87, iter 60 loss 0.481, acc 51/64
+epoch 88, iter 30 loss 0.471, acc 50/64
+epoch 88, iter 60 loss 0.480, acc 52/64
+epoch 89, iter 30 loss 0.474, acc 49/64
+epoch 89, iter 60 loss 0.483, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.649.
+
+epoch 90, iter 30 loss 0.471, acc 50/64
+epoch 90, iter 60 loss 0.480, acc 52/64
+epoch 91, iter 30 loss 0.477, acc 49/64
+epoch 91, iter 60 loss 0.484, acc 52/64
+epoch 92, iter 30 loss 0.470, acc 50/64
+epoch 92, iter 60 loss 0.479, acc 52/64
+epoch 93, iter 30 loss 0.472, acc 50/64
+epoch 93, iter 60 loss 0.481, acc 51/64
+epoch 94, iter 30 loss 0.471, acc 50/64
+epoch 94, iter 60 loss 0.480, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.469.
+
+epoch 95, iter 30 loss 0.471, acc 50/64
+epoch 95, iter 60 loss 0.479, acc 50/64
+epoch 96, iter 30 loss 0.471, acc 50/64
+epoch 96, iter 60 loss 0.480, acc 52/64
+epoch 97, iter 30 loss 0.473, acc 50/64
+epoch 97, iter 60 loss 0.479, acc 50/64
+epoch 98, iter 30 loss 0.469, acc 50/64
+epoch 98, iter 60 loss 0.479, acc 51/64
+epoch 99, iter 30 loss 0.472, acc 50/64
+epoch 99, iter 60 loss 0.481, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.247.
+
+epoch 100, iter 30 loss 0.472, acc 50/64
+epoch 100, iter 60 loss 0.480, acc 51/64
+epoch 101, iter 30 loss 0.468, acc 51/64
+epoch 101, iter 60 loss 0.477, acc 52/64
+epoch 102, iter 30 loss 0.471, acc 50/64
+epoch 102, iter 60 loss 0.480, acc 51/64
+epoch 103, iter 30 loss 0.471, acc 51/64
+epoch 103, iter 60 loss 0.480, acc 51/64
+epoch 104, iter 30 loss 0.468, acc 51/64
+epoch 104, iter 60 loss 0.476, acc 51/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 4.591.
+
+epoch 105, iter 30 loss 0.471, acc 52/64
+epoch 105, iter 60 loss 0.479, acc 51/64
+epoch 106, iter 30 loss 0.469, acc 51/64
+epoch 106, iter 60 loss 0.477, acc 50/64
+epoch 107, iter 30 loss 0.470, acc 52/64
+epoch 107, iter 60 loss 0.478, acc 52/64
+epoch 108, iter 30 loss 0.469, acc 52/64
+epoch 108, iter 60 loss 0.477, acc 51/64
+epoch 109, iter 30 loss 0.473, acc 51/64
+epoch 109, iter 60 loss 0.480, acc 51/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.248.
+
+epoch 110, iter 30 loss 0.468, acc 51/64
+epoch 110, iter 60 loss 0.476, acc 51/64
+epoch 111, iter 30 loss 0.468, acc 51/64
+epoch 111, iter 60 loss 0.476, acc 52/64
+epoch 112, iter 30 loss 0.469, acc 51/64
+epoch 112, iter 60 loss 0.476, acc 53/64
+epoch 113, iter 30 loss 0.472, acc 51/64
+epoch 113, iter 60 loss 0.479, acc 52/64
+epoch 114, iter 30 loss 0.464, acc 51/64
+epoch 114, iter 60 loss 0.473, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 4.908.
+
+epoch 115, iter 30 loss 0.465, acc 51/64
+epoch 115, iter 60 loss 0.473, acc 53/64
+epoch 116, iter 30 loss 0.468, acc 51/64
+epoch 116, iter 60 loss 0.476, acc 53/64
+epoch 117, iter 30 loss 0.467, acc 50/64
+epoch 117, iter 60 loss 0.475, acc 52/64
+epoch 118, iter 30 loss 0.467, acc 51/64
+epoch 118, iter 60 loss 0.475, acc 52/64
+epoch 119, iter 30 loss 0.466, acc 51/64
+epoch 119, iter 60 loss 0.474, acc 54/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 4.588.
+
+epoch 120, iter 30 loss 0.467, acc 51/64
+epoch 120, iter 60 loss 0.474, acc 53/64
+epoch 121, iter 30 loss 0.467, acc 51/64
+epoch 121, iter 60 loss 0.478, acc 51/64
+epoch 122, iter 30 loss 0.467, acc 52/64
+epoch 122, iter 60 loss 0.476, acc 50/64
+epoch 123, iter 30 loss 0.465, acc 51/64
+epoch 123, iter 60 loss 0.474, acc 53/64
+epoch 124, iter 30 loss 0.468, acc 51/64
+epoch 124, iter 60 loss 0.477, acc 51/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 2.126.
+
+epoch 125, iter 30 loss 0.464, acc 51/64
+epoch 125, iter 60 loss 0.471, acc 54/64
+epoch 126, iter 30 loss 0.464, acc 51/64
+epoch 126, iter 60 loss 0.473, acc 53/64
+epoch 127, iter 30 loss 0.466, acc 51/64
+epoch 127, iter 60 loss 0.475, acc 52/64
+epoch 128, iter 30 loss 0.466, acc 51/64
+epoch 128, iter 60 loss 0.473, acc 54/64
+epoch 129, iter 30 loss 0.464, acc 51/64
+epoch 129, iter 60 loss 0.472, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 2.797.
+
+epoch 130, iter 30 loss 0.468, acc 52/64
+epoch 130, iter 60 loss 0.478, acc 51/64
+epoch 131, iter 30 loss 0.470, acc 50/64
+epoch 131, iter 60 loss 0.477, acc 50/64
+epoch 132, iter 30 loss 0.469, acc 51/64
+epoch 132, iter 60 loss 0.477, acc 53/64
+epoch 133, iter 30 loss 0.465, acc 50/64
+epoch 133, iter 60 loss 0.474, acc 51/64
+epoch 134, iter 30 loss 0.464, acc 51/64
+epoch 134, iter 60 loss 0.472, acc 53/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 4.833.
+
+epoch 135, iter 30 loss 0.463, acc 51/64
+epoch 135, iter 60 loss 0.472, acc 52/64
+epoch 136, iter 30 loss 0.464, acc 51/64
+epoch 136, iter 60 loss 0.472, acc 51/64
+epoch 137, iter 30 loss 0.458, acc 51/64
+epoch 137, iter 60 loss 0.469, acc 51/64
+epoch 138, iter 30 loss 0.460, acc 51/64
+epoch 138, iter 60 loss 0.471, acc 50/64
+epoch 139, iter 30 loss 0.461, acc 52/64
+epoch 139, iter 60 loss 0.471, acc 51/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.228.
+
+epoch 140, iter 30 loss 0.461, acc 51/64
+epoch 140, iter 60 loss 0.470, acc 51/64
+epoch 141, iter 30 loss 0.459, acc 51/64
+epoch 141, iter 60 loss 0.469, acc 50/64
+epoch 142, iter 30 loss 0.460, acc 51/64
+epoch 142, iter 60 loss 0.469, acc 52/64
+epoch 143, iter 30 loss 0.463, acc 51/64
+epoch 143, iter 60 loss 0.470, acc 53/64
+epoch 144, iter 30 loss 0.462, acc 51/64
+epoch 144, iter 60 loss 0.470, acc 54/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 9.226.
+
+epoch 145, iter 30 loss 0.463, acc 51/64
+epoch 145, iter 60 loss 0.473, acc 52/64
+epoch 146, iter 30 loss 0.462, acc 51/64
+epoch 146, iter 60 loss 0.472, acc 52/64
+epoch 147, iter 30 loss 0.464, acc 51/64
+epoch 147, iter 60 loss 0.472, acc 52/64
+epoch 148, iter 30 loss 0.460, acc 51/64
+epoch 148, iter 60 loss 0.468, acc 54/64
+epoch 149, iter 30 loss 0.459, acc 51/64
+epoch 149, iter 60 loss 0.470, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 4.253.
+
+epoch 150, iter 30 loss 0.456, acc 51/64
+epoch 150, iter 60 loss 0.468, acc 53/64
+epoch 151, iter 30 loss 0.457, acc 51/64
+epoch 151, iter 60 loss 0.467, acc 51/64
+epoch 152, iter 30 loss 0.456, acc 51/64
+epoch 152, iter 60 loss 0.467, acc 53/64
+epoch 153, iter 30 loss 0.456, acc 51/64
+epoch 153, iter 60 loss 0.465, acc 52/64
+epoch 154, iter 30 loss 0.455, acc 51/64
+epoch 154, iter 60 loss 0.466, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.618.
+
+epoch 155, iter 30 loss 0.455, acc 52/64
+epoch 155, iter 60 loss 0.467, acc 51/64
+epoch 156, iter 30 loss 0.455, acc 51/64
+epoch 156, iter 60 loss 0.466, acc 52/64
+epoch 157, iter 30 loss 0.456, acc 51/64
+epoch 157, iter 60 loss 0.467, acc 52/64
+epoch 158, iter 30 loss 0.455, acc 51/64
+epoch 158, iter 60 loss 0.467, acc 53/64
+epoch 159, iter 30 loss 0.459, acc 51/64
+epoch 159, iter 60 loss 0.469, acc 53/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 3.935.
+
+epoch 160, iter 30 loss 0.457, acc 51/64
+epoch 160, iter 60 loss 0.468, acc 54/64
+epoch 161, iter 30 loss 0.456, acc 51/64
+epoch 161, iter 60 loss 0.467, acc 51/64
+epoch 162, iter 30 loss 0.452, acc 51/64
+epoch 162, iter 60 loss 0.465, acc 52/64
+epoch 163, iter 30 loss 0.455, acc 51/64
+epoch 163, iter 60 loss 0.468, acc 53/64
+epoch 164, iter 30 loss 0.454, acc 51/64
+epoch 164, iter 60 loss 0.468, acc 51/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 5.645.
+
+epoch 165, iter 30 loss 0.457, acc 51/64
+epoch 165, iter 60 loss 0.468, acc 51/64
+epoch 166, iter 30 loss 0.457, acc 51/64
+epoch 166, iter 60 loss 0.468, acc 51/64
+epoch 167, iter 30 loss 0.458, acc 51/64
+epoch 167, iter 60 loss 0.468, acc 53/64
+epoch 168, iter 30 loss 0.458, acc 51/64
+epoch 168, iter 60 loss 0.467, acc 52/64
+epoch 169, iter 30 loss 0.455, acc 51/64
+epoch 169, iter 60 loss 0.467, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 6.198.
+
+epoch 170, iter 30 loss 0.453, acc 51/64
+epoch 170, iter 60 loss 0.467, acc 50/64
+epoch 171, iter 30 loss 0.453, acc 51/64
+epoch 171, iter 60 loss 0.465, acc 50/64
+epoch 172, iter 30 loss 0.453, acc 52/64
+epoch 172, iter 60 loss 0.466, acc 51/64
+epoch 173, iter 30 loss 0.451, acc 51/64
+epoch 173, iter 60 loss 0.464, acc 50/64
+epoch 174, iter 30 loss 0.458, acc 51/64
+epoch 174, iter 60 loss 0.467, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 4.569.
+
+epoch 175, iter 30 loss 0.452, acc 51/64
+epoch 175, iter 60 loss 0.465, acc 51/64
+epoch 176, iter 30 loss 0.453, acc 51/64
+epoch 176, iter 60 loss 0.466, acc 50/64
+epoch 177, iter 30 loss 0.453, acc 51/64
+epoch 177, iter 60 loss 0.466, acc 53/64
+epoch 178, iter 30 loss 0.450, acc 51/64
+epoch 178, iter 60 loss 0.462, acc 53/64
+epoch 179, iter 30 loss 0.452, acc 51/64
+epoch 179, iter 60 loss 0.464, acc 53/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 6.541.
+
+epoch 180, iter 30 loss 0.451, acc 51/64
+epoch 180, iter 60 loss 0.464, acc 50/64
+epoch 181, iter 30 loss 0.449, acc 51/64
+epoch 181, iter 60 loss 0.462, acc 52/64
+epoch 182, iter 30 loss 0.450, acc 51/64
+epoch 182, iter 60 loss 0.465, acc 49/64
+epoch 183, iter 30 loss 0.451, acc 51/64
+epoch 183, iter 60 loss 0.464, acc 51/64
+epoch 184, iter 30 loss 0.450, acc 51/64
+epoch 184, iter 60 loss 0.462, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 5.519.
+
+epoch 185, iter 30 loss 0.452, acc 51/64
+epoch 185, iter 60 loss 0.465, acc 50/64
+epoch 186, iter 30 loss 0.451, acc 51/64
+epoch 186, iter 60 loss 0.464, acc 50/64
+epoch 187, iter 30 loss 0.444, acc 52/64
+epoch 187, iter 60 loss 0.459, acc 51/64
+epoch 188, iter 30 loss 0.444, acc 52/64
+epoch 188, iter 60 loss 0.460, acc 51/64
+epoch 189, iter 30 loss 0.455, acc 52/64
+epoch 189, iter 60 loss 0.466, acc 52/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 4.777.
+
+epoch 190, iter 30 loss 0.451, acc 51/64
+epoch 190, iter 60 loss 0.464, acc 51/64
+epoch 191, iter 30 loss 0.447, acc 51/64
+epoch 191, iter 60 loss 0.461, acc 50/64
+epoch 192, iter 30 loss 0.447, acc 51/64
+epoch 192, iter 60 loss 0.460, acc 50/64
+epoch 193, iter 30 loss 0.455, acc 51/64
+epoch 193, iter 60 loss 0.464, acc 51/64
+epoch 194, iter 30 loss 0.445, acc 51/64
+epoch 194, iter 60 loss 0.459, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 5.211.
+
+epoch 195, iter 30 loss 0.451, acc 51/64
+epoch 195, iter 60 loss 0.461, acc 49/64
+epoch 196, iter 30 loss 0.447, acc 51/64
+epoch 196, iter 60 loss 0.460, acc 49/64
+epoch 197, iter 30 loss 0.455, acc 51/64
+epoch 197, iter 60 loss 0.465, acc 52/64
+epoch 198, iter 30 loss 0.445, acc 51/64
+epoch 198, iter 60 loss 0.457, acc 51/64
+epoch 199, iter 30 loss 0.468, acc 51/64
+epoch 199, iter 60 loss 0.469, acc 53/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 5.231.
+
+epoch 200, iter 30 loss 0.455, acc 51/64
+epoch 200, iter 60 loss 0.462, acc 52/64

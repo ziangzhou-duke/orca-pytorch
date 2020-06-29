@@ -1,0 +1,6 @@
+/home/jovyan/work/hpc4/orca_tpl/
+initializing
+Using checkpoint checkpoint_1
+epoch 1, iter 30 loss 0.613, acc 96/128
+epoch 1, iter 60 loss 0.583, acc 90/128
+epoch 2, iter 30 loss 0.462, acc 96/128

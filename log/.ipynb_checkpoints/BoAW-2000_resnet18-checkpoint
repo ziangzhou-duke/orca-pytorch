@@ -1,0 +1,75 @@
+/home/jovyan/work/hpc4/orca_tpl/
+initializing
+logs are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/BoAW-2000_resnet18Adam128/log
+models are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/BoAW-2000_resnet18Adam128/models
+epoch 0, iter 30 loss 0.617, acc 97/128
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 0.606.
+
+epoch 1, iter 30 loss 0.423, acc 112/128
+epoch 2, iter 30 loss 0.353, acc 113/128
+UAR on Devel 58.5
+ROC AUC score on Devel 58.5
+Confusion matrix (Devel):
+[0, 1]
+[[2607  188]
+ [ 549  171]]
+Test set: Loss: 0.556.
+
+epoch 3, iter 30 loss 0.305, acc 110/128
+epoch 4, iter 30 loss 0.294, acc 116/128
+UAR on Devel 60.8
+ROC AUC score on Devel 60.8
+Confusion matrix (Devel):
+[0, 1]
+[[2550  245]
+ [ 501  219]]
+Test set: Loss: 0.590.
+
+epoch 5, iter 30 loss 0.263, acc 120/128
+epoch 6, iter 30 loss 0.227, acc 121/128
+epoch 7, iter 30 loss 0.199, acc 115/128
+epoch 8, iter 30 loss 0.180, acc 118/128
+epoch 9, iter 30 loss 0.150, acc 121/128
+UAR on Devel 63.3
+ROC AUC score on Devel 63.3
+Confusion matrix (Devel):
+[0, 1]
+[[2488  307]
+ [ 450  270]]
+Test set: Loss: 0.782.
+
+epoch 10, iter 30 loss 0.135, acc 122/128
+epoch 11, iter 30 loss 0.080, acc 121/128
+epoch 12, iter 30 loss 0.058, acc 127/128
+epoch 13, iter 30 loss 0.045, acc 126/128
+epoch 14, iter 30 loss 0.076, acc 128/128
+UAR on Devel 61.8
+ROC AUC score on Devel 61.8
+Confusion matrix (Devel):
+[0, 1]
+[[2615  180]
+ [ 504  216]]
+Test set: Loss: 1.071.
+
+epoch 15, iter 30 loss 0.059, acc 125/128
+epoch 16, iter 30 loss 0.036, acc 127/128
+epoch 17, iter 30 loss 0.033, acc 128/128
+epoch 18, iter 30 loss 0.028, acc 127/128
+epoch 19, iter 30 loss 0.024, acc 128/128
+UAR on Devel 64.0
+ROC AUC score on Devel 64.0
+Confusion matrix (Devel):
+[0, 1]
+[[2412  383]
+ [ 420  300]]
+Test set: Loss: 1.147.
+
+epoch 20, iter 30 loss 0.019, acc 127/128
+epoch 21, iter 30 loss 0.023, acc 128/128
+epoch 22, iter 30 loss 0.018, acc 127/128

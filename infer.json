@@ -1,0 +1,22 @@
+{
+    "n_gpu": 1,
+    "dataset": {
+        "type": "WavDataset",
+        "args": {
+            "utt2data": "/home/jovyan/work/hpc4/orca_tpl/index/devel_utt2wav",
+            "utt2label": "/home/jovyan/work/hpc4/orca_tpl/index/whole_utt2label",
+            "label2int": "/home/jovyan/work/hpc4/orca_tpl/index/label2int",
+            "need_aug": false,
+            "with_label": true,
+            "shuffle": false,
+            "feat": "BoAW-2000"
+        }
+    },
+    "model": {
+        "type": "resnet34",
+        "args": {
+            "block": "BasicBlock",
+            "layers"
+        }
+    }
+}

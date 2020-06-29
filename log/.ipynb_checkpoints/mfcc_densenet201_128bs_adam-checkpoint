@@ -1,0 +1,14 @@
+/home/jovyan/work/hpc4/orca_tpl/
+initializing
+logs are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/mfcc_densenet201/log
+models are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/mfcc_densenet201/models
+epoch 0, iter 30 loss 0.699, acc 69/128
+epoch 0, iter 60 loss 0.663, acc 84/128
+UAR on Devel 59.1
+ROC AUC score on Devel 59.1
+Confusion matrix (Devel):
+[0, 1]
+[[5691  975]
+ [5364 2617]]
+Test set: Loss: 0.977.
+

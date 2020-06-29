@@ -1,0 +1,14 @@
+/home/jovyan/work/hpc4/orca_tpl/
+initializing
+logs are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/BoAW-2000_resnet34/log
+models are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/BoAW-2000_resnet34/models
+epoch 0, iter 30 loss 0.700, acc 49/64
+epoch 0, iter 60 loss 0.615, acc 50/64
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 0.513.
+

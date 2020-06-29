@@ -1,0 +1,100 @@
+/home/jovyan/work/hpc4/orca_tpl/
+initializing
+logs are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/auDeep-fused_resnet152Adam128/log
+models are stored at /home/jovyan/work/hpc4/orca_tpl/output/orca_binary/auDeep-fused_resnet152Adam128/models
+epoch 0, iter 30 loss 0.575, acc 96/128
+UAR on Devel 50.0
+ROC AUC score on Devel 50.0
+Confusion matrix (Devel):
+[0, 1]
+[[2795    0]
+ [ 720    0]]
+Test set: Loss: 0.582.
+
+epoch 1, iter 30 loss 0.473, acc 100/128
+epoch 2, iter 30 loss 0.437, acc 108/128
+UAR on Devel 61.7
+ROC AUC score on Devel 61.7
+Confusion matrix (Devel):
+[0, 1]
+[[2477  318]
+ [ 470  250]]
+Test set: Loss: 0.532.
+
+epoch 3, iter 30 loss 0.382, acc 113/128
+epoch 4, iter 30 loss 0.371, acc 115/128
+UAR on Devel 63.2
+ROC AUC score on Devel 63.2
+Confusion matrix (Devel):
+[0, 1]
+[[1855  940]
+ [ 288  432]]
+Test set: Loss: 0.702.
+
+epoch 5, iter 30 loss 0.338, acc 113/128
+epoch 6, iter 30 loss 0.323, acc 108/128
+epoch 7, iter 30 loss 0.299, acc 115/128
+epoch 8, iter 30 loss 0.303, acc 114/128
+epoch 9, iter 30 loss 0.304, acc 116/128
+UAR on Devel 62.5
+ROC AUC score on Devel 62.5
+Confusion matrix (Devel):
+[0, 1]
+[[1924  871]
+ [ 315  405]]
+Test set: Loss: 1.060.
+
+epoch 10, iter 30 loss 0.286, acc 115/128
+epoch 11, iter 30 loss 0.266, acc 118/128
+epoch 12, iter 30 loss 0.277, acc 115/128
+epoch 13, iter 30 loss 0.277, acc 119/128
+epoch 14, iter 30 loss 0.265, acc 117/128
+UAR on Devel 64.4
+ROC AUC score on Devel 64.4
+Confusion matrix (Devel):
+[0, 1]
+[[2054  741]
+ [ 322  398]]
+Test set: Loss: 0.704.
+
+epoch 15, iter 30 loss 0.227, acc 118/128
+epoch 16, iter 30 loss 0.234, acc 117/128
+epoch 17, iter 30 loss 0.264, acc 117/128
+epoch 18, iter 30 loss 0.228, acc 120/128
+Epoch    19: reducing learning rate of group 0 to 1.0000e-04.
+epoch 19, iter 30 loss 0.186, acc 123/128
+UAR on Devel 64.0
+ROC AUC score on Devel 64.0
+Confusion matrix (Devel):
+[0, 1]
+[[2574  221]
+ [ 461  259]]
+Test set: Loss: 0.572.
+
+epoch 20, iter 30 loss 0.108, acc 125/128
+epoch 21, iter 30 loss 0.067, acc 128/128
+epoch 22, iter 30 loss 0.033, acc 128/128
+epoch 23, iter 30 loss 0.011, acc 128/128
+epoch 24, iter 30 loss 0.004, acc 128/128
+UAR on Devel 63.9
+ROC AUC score on Devel 63.9
+Confusion matrix (Devel):
+[0, 1]
+[[2537  258]
+ [ 454  266]]
+Test set: Loss: 1.178.
+
+epoch 25, iter 30 loss 0.003, acc 128/128
+epoch 26, iter 30 loss 0.003, acc 128/128
+epoch 27, iter 30 loss 0.005, acc 128/128
+epoch 28, iter 30 loss 0.004, acc 128/128
+epoch 29, iter 30 loss 0.009, acc 128/128
+UAR on Devel 62.9
+ROC AUC score on Devel 62.9
+Confusion matrix (Devel):
+[0, 1]
+[[2582  213]
+ [ 479  241]]
+Test set: Loss: 1.531.
+
+epoch 30, iter 30 loss 0.018, acc 126/128
